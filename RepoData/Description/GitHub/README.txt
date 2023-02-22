@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+👁️‍🗨️️🎞️🎎️ The subbing and dubbing tools for Anime Studio, allowing subtitling and dubbing Anime media. Part of the Anime Studio software project.
